@@ -1,5 +1,5 @@
 .MachineLearningAlgorithms_venv
 *.docx
 Assignment_01/Ass1-ReinekeWaldsamWimmer.ipynb
-data
 *.pdf
+*.log
